@@ -5,7 +5,7 @@ iOS 技术系列文章，均发布在我的博客 www.wenghengcong.com，欢迎�
 ## 导航
 
 - [底层](#底层)
-  - [Effective Objective-C 2.0](#Effective-Objective-C 2.0)
+  - [Effective Objective-C 2.0](#Effective-Objective-C)
   - [Modal解析](#Modal解析)
   - [RunLoop](#RunLoop)
   - [Runtime](#Runtime)
@@ -18,7 +18,7 @@ iOS 技术系列文章，均发布在我的博客 www.wenghengcong.com，欢迎�
 
 ## 底层
 
-### Effective-Objective-C 2.0
+### Effective-Objective-C
 
 | 博客                                                         |  简介    |
 | ------------------------------------------------------------ | ---- |
