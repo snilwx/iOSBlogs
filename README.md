@@ -7,6 +7,7 @@ iOS 技术系列文章，均发布在我的博客 www.wenghengcong.com，欢迎�
 - [底层](#底层)
   - [Effective Objective-C 2.0](#Effective-Objective-C)
   - [Modal解析](#Modal解析)
+  - [内存管理](#内存管理)
   - [RunLoop](#RunLoop)
   - [Runtime](#Runtime)
 
@@ -28,6 +29,12 @@ iOS 技术系列文章，均发布在我的博客 www.wenghengcong.com，欢迎�
 | [Objective-C语言（四）协议与分类](http://wenghengcong.com/posts/c8eace10/) |      |
 | [Objective-C语言（五）系统框架](http://wenghengcong.com/posts/ecbf9f9f/) |      |
 | [Objective-C语言（六）Block与GCD](http://wenghengcong.com/posts/2fd17587/) |      |
+| [Objective-C（七）对象内存分析](http://wenghengcong.com/posts/38431d60/) | |
+| [Objective-C（八）对象的本质及分类](http://wenghengcong.com/posts/ec4474d1/) | |
+| [Objective-C（九）KVC 与 KVO](http://wenghengcong.com/posts/f4c075c4/) | |
+| [Objective-C（十）Category](http://wenghengcong.com/posts/b8e84edc/) | |
+| [Objective-C（十一）load 和 initialize](http://wenghengcong.com/posts/a69d9d1f/) | |
+| [Objective-C（十二）关联对象](http://wenghengcong.com/posts/5fe15e03/) | |
 
 
 
