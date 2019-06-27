@@ -1,6 +1,8 @@
 
 
-iOS 技术系列文章，均发布在我的博客 www.wenghengcong.com，欢迎访问~
+iOS 技术系列文章，均发布在我的博客  [www.wenghengcong.com](www.wenghengcong.com)，欢迎访问~
+
+
 
 ## 导航
 
@@ -10,6 +12,9 @@ iOS 技术系列文章，均发布在我的博客 www.wenghengcong.com，欢迎�
   - [内存管理](#内存管理)
   - [RunLoop](#RunLoop)
   - [Runtime](#Runtime)
+- [编译](#编译)
+- [安全](#安全)
+    - [逆向](#逆向)
 
 * [框架](#框架)
   * [推送通知](#推送通知)
@@ -84,6 +89,31 @@ iOS 技术系列文章，均发布在我的博客 www.wenghengcong.com，欢迎�
 | [Runtime（三）方法缓存](http://wenghengcong.com/posts/497dcda2/) |      |
 | [Runtime（四）objc_msgSend](http://wenghengcong.com/posts/de99a8a4/) |      |
 | [Runtime（五）类的判定](http://wenghengcong.com/posts/bb109840/) |      |
+
+
+
+## 编译
+
+| 博客列表                                                     | 简介 |
+| ------------------------------------------------------------ | ---- |
+| [Mach-O（一）结构](http://wenghengcong.com/posts/9cb913e/)   |      |
+| [Mach-O（二）内存分布](http://wenghengcong.com/posts/f13a5377/) |      |
+
+
+
+## 安全
+
+### 逆向
+
+| 博客列表                                                     | 简介 |
+| ------------------------------------------------------------ | ---- |
+| [逆向（一）环境搭建](http://wenghengcong.com/posts/a3f7476f/) |      |
+| [逆向（二）Cycript](http://wenghengcong.com/posts/ffe6b3a6/) |      |
+| [逆向（三）逆向工具](http://wenghengcong.com/posts/4e9f8ec1/) |      |
+| [逆向（四）脱壳](http://wenghengcong.com/posts/7b70260a/)    |      |
+| [逆向（五）Theos 工具](http://wenghengcong.com/posts/1d49306b/) |      |
+| [逆向（六）动态调试](http://wenghengcong.com/posts/e46291ba/) |      |
+| [逆向（七）重签名](http://wenghengcong.com/posts/3c332106/)  |      |
 
 
 
