@@ -1,6 +1,6 @@
 
 
-iOS 技术系列文章，均发布在[我的博客](www.wenghengcong.com)，欢迎访问~
+iOS 技术系列文章，均发布在[我的博客](http://wenghengcong.com)，欢迎访问~
 
 
 
